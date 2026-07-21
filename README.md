@@ -70,7 +70,7 @@ Full-stack developer with **5+ years of freelance experience** shipping software
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏗️ Client Work/h3>
+      <h3 align="center">🏗️ Client Work </h3>
       <p align="center">
         <a href="https://abelswebsite.com"><b>Portfolio</b></a> ·
         <a href="https://atlantamedical.supply"><b>Atlanta Medical Supply</b></a> ·
