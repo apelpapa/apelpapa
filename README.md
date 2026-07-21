@@ -72,9 +72,11 @@ Full-stack developer with **5+ years of freelance experience** shipping software
     <td width="50%" valign="top">
       <h3 align="center">🏗️ Client Work — 15+ Sites Shipped</h3>
       <p align="center">
-        <a href="https://github.com/apelpapa/woodstock-construction-llc-site"><b>Woodstock Construction</b></a>
+        <a href="https://abelswebsite.com"><b>Portfolio</b></a> ·
+        <a href="https://atlantamedical.supply"><b>Atlanta Medical Supply</b></a> ·
+        <a href="https://michellepapazian.com"><b>Michelle Papazian, LCSW</b></a>
       </p>
-      <p>Paid websites and web apps for small-business clients — including Atlanta Medical Supply — owning requirements, implementation, hosting, DNS, deployment, and handoff. Responsive frontends with contact forms, Google Maps integrations, and scheduling handoffs, deployed on Cloudflare Pages, GitHub Pages, and DigitalOcean.</p>
+      <p>Paid websites and web applications for small-business clients, with end-to-end ownership of requirements, implementation, hosting, DNS, deployment, and handoff. Recent work includes production sites for a medical-supply business, a clinical social worker, and the full-stack Homestead Puppies platform.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -82,14 +84,19 @@ Full-stack developer with **5+ years of freelance experience** shipping software
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏀 Cannon Hoops — Unity Game</h3>
+      <h3 align="center">🖥️ ABELLAB — Enterprise Infrastructure Lab</h3>
       <p align="center">
-        <a href="https://github.com/apelpapa/Cannon-Hoops"><b>Repository</b></a>
+        <a href="https://github.com/apelpapa/ABELLAB-Infrastructure-Lab"><b>Repository</b></a> ·
+        <a href="https://github.com/apelpapa/ABELLAB-Infrastructure-Lab/blob/main/docs/ARCHITECTURE.md"><b>Architecture</b></a> ·
+        <a href="https://github.com/apelpapa/ABELLAB-Infrastructure-Lab/blob/main/docs/VALIDATION.md"><b>Validation</b></a>
       </p>
-      <p>Physics-based basketball game built in Unity with C#. A side track that keeps the fundamentals sharp — game loops, physics, and shader work (ShaderLab).</p>
+      <p>Evidence-backed enterprise lab built on VMware ESXi with Windows Server Active Directory, DNS, Group Policy, SMB and FSRM controls, Linux domain integration, Prometheus and Grafana monitoring, and a verified backup-recovery drill. Includes reproducible configuration, validation scripts, controlled failure testing, and a documented incident response.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
       </p>
     </td>
   </tr>
