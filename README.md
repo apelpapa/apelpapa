@@ -1,12 +1,12 @@
 <!-- Header banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0dd4ff,100:7b2fff&height=200&section=header&text=Abel%20Papazian&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Node.js%20%C2%B7%20PostgreSQL&descAlignY=55&descSize=18" alt="Abel Papazian — Full-Stack Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0dd4ff,100:7b2fff&height=200&section=header&text=Abel%20Papazian&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20%26%20Systems%20Developer%20%C2%B7%20Full-Stack%20%C2%B7%20Infrastructure%20%C2%B7%20Automation&descAlignY=55&descSize=18" alt="Abel Papazian — Software and Systems Developer" width="100%" />
 </div>
 
 <!-- Typing animation -->
 <div align="center">
   <a href="https://github.com/apelpapa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=0DD4FF&center=true&vCenter=true&width=600&lines=Shipping+software+clients+depend+on;15%2B+websites+%26+apps+built+end+to+end;React+%2F+TypeScript+%2F+Node.js+%2F+PostgreSQL;5%2B+years+of+freelance+experience;B.S.+Computer+Science+%E2%80%94+Oct+2026" alt="Typing animation: full-stack developer highlights" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=0DD4FF&center=true&vCenter=true&width=760&lines=Software+%26+systems+development;15%2B+paid+websites+%26+applications;React+%2F+TypeScript+%2F+Node.js+%2F+PostgreSQL;Windows+Server+%2F+Linux+%2F+VMware+ESXi+%2F+PowerShell;5%2B+years+of+freelance+experience;B.S.+Computer+Science+%E2%80%94+Oct+2026" alt="Typing animation: software and systems development highlights" />
   </a>
 </div>
 
@@ -23,13 +23,14 @@
 
 ## 🧭 About Me
 
-Full-stack developer with **5+ years of freelance experience** shipping software that paying clients depend on — **15+ websites and web applications** built, deployed, and maintained end to end, including a database-driven business platform that ran in production for over three years.
+Software and systems developer with **5+ years of experience** delivering **15+ paid websites and applications** from requirements through production support. My work spans full-stack development, Linux/cloud deployment, Windows and Linux administration, virtualization, automation, monitoring, and recovery testing.
 
-- 🔭 Currently building **[JotNotes](https://github.com/apelpapa/jot-notes)** — a full-stack note-taking app (TypeScript · React · Supabase PostgreSQL)
+- 🔭 Currently building **[ListenShelf](https://github.com/apelpapa/ListenShelf-Audiobook-Player)**, an offline-first C#/.NET audiobook player, and **[JotNotes](https://github.com/apelpapa/jot-notes)**, a TypeScript/React notes app
+- 🧰 Building and validating enterprise infrastructure through **[ABELLAB](https://github.com/apelpapa/ABELLAB-Infrastructure-Lab)**
 - 🎓 B.S. Computer Science @ Western Governors University — **expected Oct 2026**
 - 📍 Acworth, GA (Atlanta metro)
 - 🗣️ English · Russian · Armenian
-- 💼 Open to full-stack and frontend roles
+- 💼 Open to software development, full-stack, systems, and infrastructure roles
 
 ---
 
@@ -44,7 +45,7 @@ Full-stack developer with **5+ years of freelance experience** shipping software
         <a href="https://github.com/apelpapa/homestead-puppies-modern"><b>React Frontend</b></a> ·
         <a href="https://homesteadpuppies.org"><b>Live Site</b></a>
       </p>
-      <p>Sole developer of a full-stack platform used daily by three nontechnical staff. PostgreSQL relational schema, session auth (Passport.js + bcrypt), protected CRUD admin, image pipeline (multer → S3 → CloudFront), deposit payment flow, and a versioned read-only REST API powering a second React/TypeScript frontend. Operated on a DigitalOcean droplet: Nginx, PM2, Cloudflare, GitHub Actions CI/CD.</p>
+      <p>Built and operated a database-driven platform used by three nontechnical staff. Node.js/Express REST services, PostgreSQL, session authentication, protected administration, TLS, AWS object storage/CDN, logging, automatic restart, and CI/CD support a second React/TypeScript frontend.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -54,23 +55,25 @@ Full-stack developer with **5+ years of freelance experience** shipping software
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📝 JotNotes — Full-Stack Notes App</h3>
+      <h3 align="center">🖥️ ABELLAB — Enterprise Infrastructure Lab</h3>
       <p align="center">
-        <a href="https://github.com/apelpapa/jot-notes"><b>Repository</b></a> ·
-        <a href="https://jot-notes.app"><b>Live App</b></a>
+        <a href="https://github.com/apelpapa/ABELLAB-Infrastructure-Lab"><b>Repository</b></a> ·
+        <a href="https://github.com/apelpapa/ABELLAB-Infrastructure-Lab/blob/main/docs/ARCHITECTURE.md"><b>Architecture</b></a> ·
+        <a href="https://github.com/apelpapa/ABELLAB-Infrastructure-Lab/blob/main/docs/VALIDATION.md"><b>Validation</b></a>
       </p>
-      <p>Note-taking app with a TypeScript/React frontend, Node.js REST API, and Supabase-hosted PostgreSQL — note CRUD, persistent storage, light/dark themes. Self-hosted on a DigitalOcean droplet behind Nginx and PM2.</p>
+      <p>Designed a four-VM environment with Active Directory, DNS, Group Policy, SMB/NTFS controls, Windows and Linux domain joins, Docker-based Prometheus/Grafana monitoring, and documented validation scripts. Verified least-privilege access, alerts, and Windows Server backup recovery through controlled testing.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏗️ Client Work </h3>
+      <h3 align="center">🏗️ Client Work</h3>
       <p align="center">
         <a href="https://abelswebsite.com"><b>Portfolio</b></a> ·
         <a href="https://atlantamedical.supply"><b>Atlanta Medical Supply</b></a> ·
@@ -84,19 +87,17 @@ Full-stack developer with **5+ years of freelance experience** shipping software
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🖥️ ABELLAB — Enterprise Infrastructure Lab</h3>
+      <h3 align="center">🎧 ListenShelf — Desktop Audiobook Player</h3>
       <p align="center">
-        <a href="https://github.com/apelpapa/ABELLAB-Infrastructure-Lab"><b>Repository</b></a> ·
-        <a href="https://github.com/apelpapa/ABELLAB-Infrastructure-Lab/blob/main/docs/ARCHITECTURE.md"><b>Architecture</b></a> ·
-        <a href="https://github.com/apelpapa/ABELLAB-Infrastructure-Lab/blob/main/docs/VALIDATION.md"><b>Validation</b></a>
+        <a href="https://github.com/apelpapa/ListenShelf-Audiobook-Player"><b>Repository</b></a> ·
+        <a href="https://github.com/apelpapa/ListenShelf-Audiobook-Player/releases"><b>Windows Releases</b></a>
       </p>
-      <p>Evidence-backed enterprise lab built on VMware ESXi with Windows Server Active Directory, DNS, Group Policy, SMB and FSRM controls, Linux domain integration, Prometheus and Grafana monitoring, and a verified backup-recovery drill. Includes reproducible configuration, validation scripts, controlled failure testing, and a documented incident response.</p>
+      <p>Offline-first audiobook player built with C#, .NET 10, Avalonia, and SQLite. Includes layered architecture, managed and player-only library modes, chapter navigation, metadata workflows, per-file position persistence, and automated Windows x64 release packaging.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" />
+        <img src="https://img.shields.io/badge/Avalonia-8B44AC?style=flat-square" alt="Avalonia" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
     </td>
   </tr>
@@ -108,59 +109,67 @@ Full-stack developer with **5+ years of freelance experience** shipping software
 
 <table>
   <tr>
-    <td><b>Frontend</b></td>
+    <td><b>Development</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
     </td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
+    <td><b>Backend & APIs</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
       <img src="https://img.shields.io/badge/REST_API-0dd4ff?style=flat-square" alt="REST API" />
-      <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black" alt="Passport.js" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-      <img src="https://img.shields.io/badge/OAuth-2C2C2C?style=flat-square" alt="OAuth" />
+      <img src="https://img.shields.io/badge/Authentication-2C2C2C?style=flat-square" alt="Authentication" />
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
+    <td><b>Data</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" alt="SQL" />
     </td>
   </tr>
   <tr>
-    <td><b>DevOps & Cloud</b></td>
+    <td><b>Systems & Platforms</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
+      <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square" alt="Active Directory" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/VMware_ESXi-607078?style=flat-square" alt="VMware ESXi" />
+      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
       <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" alt="PM2" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & Operations</b></td>
+    <td>
       <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
       <img src="https://img.shields.io/badge/AWS_S3_/_CloudFront-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
     </td>
   </tr>
   <tr>
-    <td><b>Also</b></td>
+    <td><b>Automation & Delivery</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/CI%2FCD-0dd4ff?style=flat-square" alt="CI/CD" />
+      <img src="https://img.shields.io/badge/Documentation-7b2fff?style=flat-square" alt="Documentation" />
     </td>
   </tr>
 </table>
