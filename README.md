@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0dd4ff,100:7b2fff&height=200&section=header&text=Abel%20Papazian&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20%26%20Systems%20Developer%20%C2%B7%20Full-Stack%20%C2%B7%20Infrastructure%20%C2%B7%20Automation&descAlignY=55&descSize=18" alt="Abel Papazian — Software and Systems Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0dd4ff,100:7b2fff&height=200&section=header&text=Abel%20Papazian&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20and%20Systems%20Developer%20%C2%B7%20Full-Stack%20%C2%B7%20Infrastructure%20%C2%B7%20Automation&descAlignY=55&descSize=18" alt="Abel Papazian — Software and Systems Developer" width="100%" />
 </div>
 
 <!-- Typing animation -->
