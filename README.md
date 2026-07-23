@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <div align="center">
   <a href="https://github.com/apelpapa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=0DD4FF&center=true&vCenter=true&width=760&lines=Software+%26+systems+development;15%2B+paid+websites+%26+applications;React+%2F+TypeScript+%2F+Node.js+%2F+PostgreSQL;Windows+Server+%2F+Linux+%2F+VMware+ESXi+%2F+PowerShell;5%2B+years+of+freelance+experience;B.S.+Computer+Science+%E2%80%94+Oct+2026" alt="Typing animation: software and systems development highlights" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=0DD4FF&center=true&vCenter=true&width=760&lines=Software+%26+systems+development;20%2B+years+building+with+computers+as+a+hobby;7%2B+years+of+freelance+development;15%2B+client+websites+%26+applications+delivered;React+%2F+TypeScript+%2F+Node.js+%2F+PostgreSQL;Windows+Server+%2F+Linux+%2F+VMware+ESXi+%2F+PowerShell;B.S.+Computer+Science+%E2%80%94+Oct+2026" alt="Typing animation: software and systems development highlights" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 
 ## 🧭 About Me
 
-Software and systems developer with **5+ years of experience** delivering **15+ paid websites and applications** from requirements through production support. My work spans full-stack development, Linux/cloud deployment, Windows and Linux administration, virtualization, automation, monitoring, and recovery testing.
+Software and systems developer delivering production applications and reliable infrastructure, with **20+ years building with computers as a hobby**, **7+ years of freelance development**, and **15+ client websites and applications delivered**. I work from requirements through production support across full-stack development, Linux/cloud deployment, Windows and Linux administration, virtualization, automation, monitoring, and recovery testing.
 
 - 🔭 Currently building **[ListenShelf](https://github.com/apelpapa/ListenShelf-Audiobook-Player)**, an offline-first C#/.NET audiobook player, and **[JotNotes](https://github.com/apelpapa/jot-notes)**, a TypeScript/React notes app
 - 🧰 Building and validating enterprise infrastructure through **[ABELLAB](https://github.com/apelpapa/ABELLAB-Infrastructure-Lab)**
@@ -79,7 +79,7 @@ Software and systems developer with **5+ years of experience** delivering **15+ 
         <a href="https://atlantamedical.supply"><b>Atlanta Medical Supply</b></a> ·
         <a href="https://michellepapazian.com"><b>Michelle Papazian, LCSW</b></a>
       </p>
-      <p>Paid websites and web applications for small-business clients, with end-to-end ownership of requirements, implementation, hosting, DNS, deployment, and handoff. Recent work includes production sites for a medical-supply business, a clinical social worker, and the full-stack Homestead Puppies platform.</p>
+      <p>15+ client websites and applications delivered for small-business clients, with end-to-end ownership of requirements, implementation, hosting, DNS, deployment, and handoff. Recent work includes production sites for a medical-supply business, a clinical social worker, and the full-stack Homestead Puppies platform.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
